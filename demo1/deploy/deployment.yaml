@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: demo1
-        image: demo1:1.0.2
+        image: demo1:1.0.0
         ports:
         - containerPort: 5000
         volumeMounts:

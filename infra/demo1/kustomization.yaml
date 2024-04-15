@@ -4,7 +4,7 @@ metadata:
   name: demo1
   namespace: default
 spec:
-  interval: 15m
+  interval: 5m
   path: "./demo1/deploy"
   prune: true
   sourceRef:
